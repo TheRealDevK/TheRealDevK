@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TheRealDevK
 - 👀 I’m interested in learning programming
-- 🌱 I’m currently looking for free material for learning programming
+- 🌱 I’m currently looking for free material for learning programming!
 
 
 <!---
